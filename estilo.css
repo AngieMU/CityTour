@@ -1,0 +1,60 @@
+body{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url("img/fondo3.jpg");
+}
+
+#principal{
+	
+	margin: 0px;
+	padding: 15px;
+	border-radius: 14px 14px 14px 14px;
+	-moz-border-radius: 14px 14px 14px 14px;
+	-webkit-border-radius: 14px 14px 14px 14px;
+	border: 2px dashed #ffec1f;
+}
+
+#contMap{
+	width: 45%;
+    position: absolute;
+    top: 100px;
+    left: 650px;
+    font-size: 15px;
+}
+
+#contDes{
+	width: 48%;
+	padding-left: 10px;
+}
+
+#aviso{
+	color: #3333FF;
+	font-weight: bold; 
+	font-size: 18px;
+}
+
+#mapa{
+	height: 500px;
+}
+
+#msj{
+	text-align: right;
+}
+
+#titulo{
+	color: #1767B7;
+    font-weight: bold;    
+}
+
+#titulo_direc{
+	color: #000000;
+	font-size: 17px;
+}
+
+#direc{
+	color: #808080;
+	font-size: 15px;
+}
+
+#info{
+	font-size: 12px;
+}
